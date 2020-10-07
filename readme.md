@@ -8,7 +8,7 @@
 ## Installation
 1. Point to an existing repository and make a copy of that repository to the local filesystem;
 	```
-	__git clone https://gitlab.com/saran.fc/kccc.git__
+	**git clone https://gitlab.com/saran.fc/kccc.git**
 	```
 2. Change the current working directory to kccc
 	```
