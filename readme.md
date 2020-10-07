@@ -2,7 +2,6 @@
 # KCCC - Credit Consulting Software. 
 
 * [Installation](#Installation)
-
 * [Instructions](#Instructions)
 
 ## Installation
@@ -30,7 +29,7 @@
 	```
 
 ## Instructions
-Follow the above steps carefully then run the application.
+Follow the above steps carefully and then run the application using the artisan command
 ```
-php artisan serve
+    php artisan serve
 ```
