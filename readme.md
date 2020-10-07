@@ -32,5 +32,5 @@
 ## Instructions
 Follow the above steps carefully then run the application.
 ```
-	php artisan serve
+php artisan serve
 ```
