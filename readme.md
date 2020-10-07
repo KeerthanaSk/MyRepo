@@ -8,15 +8,15 @@
 ## Installation
 1. Point to an existing repository and make a copy of that repository to the local filesystem;
 	```
-	**git clone https://gitlab.com/saran.fc/kccc.git**
+	git clone https://gitlab.com/saran.fc/kccc.git
 	```
 2. Change the current working directory to kccc
 	```
-	__cd kccc__
+	cd kccc
 	```
 3. To install the defined dependencies, run the installer command;
 	```
-	__composer install__
+	composer install
 	```
 4. Create the database for the project
 5. Copy “.env.example” file and rename as “.env”  and specify database name and credentials
